@@ -1,0 +1,6 @@
+{listeners}
+type:call<971509798666>|accept|html
+type:message<971509798666>|true|text
+value:VAR=name,number|unnull
+string:971509798666.html%listeners%true
+
